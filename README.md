@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Voytee
+# 👋 Hi, I'm Unix
 
 I build desktop applications, experiment with VR, 3D and game development.
 
